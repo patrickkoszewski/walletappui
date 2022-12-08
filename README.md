@@ -1,6 +1,8 @@
 # walletappui
 
-A new Flutter project.
+Wallet App UI Flutter demo project.
+
+![walletapp](https://user-images.githubusercontent.com/116440070/206546200-f263dae5-99c9-4ec1-97f1-191836a0c9f8.png)
 
 ## Getting Started
 
